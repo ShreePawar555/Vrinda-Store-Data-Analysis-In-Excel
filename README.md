@@ -20,7 +20,7 @@
 # Useful Insights from the Data to Solve Business Problems.
 1. **Women** are more likely to buy compared to **Men** **(64%)**
 2. **Maharashtra, Karnataka, Uttar Pradesh** are the **Top 3 States**.
-3. **Adult** age group (**30-49** yrs) is Max contributing **(50%)**
+3. **Adult** age group (**30-49** yrs) is Max contributing **(50%)**  
 4.** Amazon, Flipkart, Myntra** Channels are max contribution **(80%)**
 
 # Final Conclusion to improve the Vrinda Store Sales:
